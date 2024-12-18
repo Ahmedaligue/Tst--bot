@@ -8,20 +8,20 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['201125343147', '❄️ libby 🧿', true],
+  ['212625457341', '❄️ ahmed 🧿', true],
   ['', '🔥  🧿', true],
 ];
 
-global.xaxa = 'libby'
-global.suittag = ['201125343147'];
-global.prems = ['201125343147'];
+global.xaxa = 'ahmed'
+global.suittag = ['212625457341'];
+global.prems = ['212625457341'];
 
-global.packname = 'libby -3mk  ';
-global.author = '★libby - 3mk 𝐵𝛩𝑇★';
-global.wm = '★libby-3mk 𝐵𝛩𝑇★';
-global.titulowm = '🤖 libby - 3mk 𝐵𝛩𝑇 🤖';
-global.titulowm2 = `乂 libby - 3mk 𝐵𝛩𝑇 乂`
-global.igfg = '★libby&3mk 𝐵𝛩𝑇★';
+global.packname = 'kabane -3mk  ';
+global.author = '★kabane - 3mk 𝐵𝛩𝑇★';
+global.wm = 'kabanr-3mk 𝐵𝛩𝑇★';
+global.titulowm = '🤖 kabbane - 3mk 𝐵𝛩𝑇 🤖';
+global.titulowm2 = `乂 kabane - 3mk 𝐵𝛩𝑇 乂`
+global.igfg = '★kabane&3mk 𝐵𝛩𝑇★';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -43,14 +43,14 @@ global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
-global.gt = '★libby - 3mk 𝐵𝛩𝑇★';
+global.gt = '★kabane - 3mk 𝐵𝛩𝑇★';
 global.mysticbot = '★libby - 3mk 𝐵𝛩𝑇★';
 global.md = 'https://chat.whatsapp.com/BjrqiXLZKmZ3jW7vEDyV27';
 global.mysticbot = 'https://chat.whatsapp.com/BjrqiXLZKmZ3jW7vEDyV27';
 global.waitt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waittt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waitttt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
-global.nomorown = '201125343147';
+global.nomorown = '212625457341';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
